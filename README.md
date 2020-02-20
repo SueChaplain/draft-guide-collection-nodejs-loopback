@@ -40,6 +40,8 @@ guide-category: stacks
 
 ## What you will learn
 
+**NOTE: Use this guide only for Kabanero V0.5.0 and earlier releases.**
+
 In this guide, you’ll learn how to create and run a simple cloud native microservice based on the Node.js LoopBack application stack. You’ll learn how to configure your development environment, update the microservice that you created and deploy it to Kubernetes or serverless. Deployment to serverless is optional depending on whether you want to Scale to Zero.
 
 The Node.js LoopBack application stack enables the development and optimization of microservices.
@@ -193,7 +195,7 @@ Your new project is created, built, and started inside a container.
 
 <!--
 // =================================================================================================
-// Understanding the project layout 
+// Understanding the project layout
 // =================================================================================================
 -->
 
